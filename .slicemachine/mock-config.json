@@ -1,0 +1,16 @@
+{
+  "_cts": {
+    "projects": {},
+    "blog_post": {},
+    "navigation": {},
+    "settings": {},
+    "page": {
+      "page_title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  }
+}

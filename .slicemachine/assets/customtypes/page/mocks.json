@@ -1,0 +1,33 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "yes"
+  },
+  "page_title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading1",
+        "content": {
+          "text": "Effort"
+        }
+      }
+    ]
+  },
+  "page_description": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Dolor Lorem ex Lorem. Officia proident sint mollit dolor minim quis proident non nulla amet eu reprehenderit veniam."
+        }
+      }
+    ]
+  },
+  "slug": {
+    "__TYPE__": "FieldContent",
+    "value": "shade",
+    "type": "Text"
+  }
+}
